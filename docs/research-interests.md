@@ -1,30 +1,21 @@
-# GitHub Learning Roadmap
+# Research Interests
 
-## Stage 1: Repository Basics
+## Main Research Areas
 
-- Create a repository
-- Add a README file
-- Add a license
-- Edit files on GitHub
-- Write clear commit messages
+- Lignin-based biomaterials
+- Calcium alginate hydrogels
+- Oral controlled drug delivery
+- Theophylline release systems
+- Biopolymer coating systems
 
-## Stage 2: Documentation
+## Characterization Methods
 
-- Create Markdown files
-- Organize files into folders
-- Improve repository structure
-
-## Stage 3: GitHub Flow
-
-- Create a branch
-- Make changes on the branch
-- Open a pull request
-- Merge the pull request
-
-## Stage 4: Local Workflow
-
-- Install Git
-- Install GitHub Desktop
-- Clone the repository
-- Edit files locally
-- Commit and push changes
+- FTIR spectroscopy
+- Raman spectroscopy
+- XRD analysis
+- FE-SEM and EDX
+- AFM
+- Water contact angle analysis
+- Water vapor permeability analysis
+- Drug release studies
+- Release kinetics modeling
