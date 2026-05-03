@@ -1,15 +1,38 @@
-# milad-academic-portfolio
+# Milad Academic Portfolio
 
-This repository is my first GitHub project.  
-It is created to practice GitHub Flow, repository management, commits, branches, and documentation.
+This repository is my first professional GitHub repository.  
+It is designed as a structured space for learning GitHub, practicing version control, and organizing academic documentation.
 
-## Goals
+## Purpose
 
-- Learn how to create and manage repositories
-- Practice editing README files
-- Understand commits and branches
-- Build a professional GitHub profile step by step
+The main purpose of this repository is to build a professional foundation for:
 
-## Author
+- Learning Git and GitHub workflows
+- Practicing repository management
+- Writing clear technical and academic documentation
+- Organizing research-related materials
+- Developing a public academic portfolio step by step
 
-Milad Tahmaseb Nejad
+## Academic Focus
+
+My academic and research interests include:
+
+- Lignin-based biomaterials
+- Alginate hydrogels
+- Controlled drug delivery systems
+- Theophylline release systems
+- Pharmaceutical and biomaterial characterization
+- Scientific writing and research documentation
+
+## Repository Structure
+
+```text
+milad-academic-portfolio/
+├── README.md
+├── LICENSE
+├── profile.md
+├── learning-log.md
+└── docs/
+    ├── academic-background.md
+    ├── research-interests.md
+    └── github-roadmap.md
