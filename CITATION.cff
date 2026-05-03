@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Milad Academic Portfolio"
+message: "If you use or refer to this repository, please cite it as below."
+type: software
+authors:
+  - family-names: "Tahmaseb Nezhad"
+    given-names: "Milad"
+repository-code: "https://github.com/miladtahmasebnejadtr-arch/milad-academic-portfolio"
+license: "MIT"
