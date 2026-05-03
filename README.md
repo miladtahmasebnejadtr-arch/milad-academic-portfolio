@@ -28,11 +28,52 @@ My academic and research interests include:
 
 ```text
 milad-academic-portfolio/
-├── README.md
+├── .gitignore
+├── CITATION.cff
+├── CONTRIBUTING.md
 ├── LICENSE
-├── profile.md
+├── README.md
+├── SECURITY.md
 ├── learning-log.md
+├── profile.md
 └── docs/
     ├── academic-background.md
-    ├── research-interests.md
-    └── github-roadmap.md
+    ├── github-roadmap.md
+    └── research-interests.md
+```
+
+## Repository Resources
+
+- [Academic Profile](profile.md)
+- [GitHub Learning Log](learning-log.md)
+- [Academic Background](docs/academic-background.md)
+- [Research Interests](docs/research-interests.md)
+- [GitHub Learning Roadmap](docs/github-roadmap.md)
+- [Contribution Guidelines](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- [Citation Metadata](CITATION.cff)
+
+## Skills Practiced
+
+- Repository creation and organization
+- Markdown writing
+- Version control basics
+- GitHub Desktop workflow
+- Branch-based development
+- Pull request workflow
+- Repository documentation
+
+## Repository Status
+
+This repository is currently used as an academic portfolio and GitHub learning project.  
+It will be improved progressively as my GitHub workflow, documentation practice, and research-related materials become more structured.
+
+## Author
+
+**Milad Tahmaseb Nezhad**
+
+Graduate researcher interested in biomaterials, lignin-based systems, alginate hydrogels, and controlled drug delivery.
+
+## License
+
+This repository is licensed under the MIT License.
